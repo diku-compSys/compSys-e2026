@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="En mere overskuelig kursusportal for Computer Systems E2026 ved DIKU.">
+  <meta name="theme-color" content="#171a2b">
+  <title>Computer Systems E2026</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Spring til indhold</a>
+
+  <header class="mobile-header">
+    <button class="icon-button" id="menu-button" type="button" aria-label="Aabn navigation" aria-expanded="false" aria-controls="sidebar">
+      <span aria-hidden="true">☰</span>
+    </button>
+    <a class="mobile-brand" href="#overblik" aria-label="Computer Systems E2026, forside">
+      <span class="brand-mark" aria-hidden="true">CS</span>
+      <span>CompSys E2026</span>
+    </a>
+    <button class="icon-button" id="mobile-theme-button" type="button" aria-label="Skift farvetema">
+      <span aria-hidden="true">◐</span>
+    </button>
+  </header>
+
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar" aria-label="Primær navigation">
+      <div class="sidebar-top">
+        <a class="brand" href="#overblik" aria-label="Computer Systems E2026, forside">
+          <span class="brand-mark" aria-hidden="true">CS</span>
+          <span class="brand-copy">
+            <strong>Computer Systems</strong>
+            <span>E2026 · DIKU</span>
+          </span>
+        </a>
+
+        <nav class="primary-nav" id="primary-nav">
+          <a href="#overblik" data-route="overblik"><span aria-hidden="true">⌂</span><span>Overblik</span></a>
+          <a href="#ugeplan" data-route="ugeplan"><span aria-hidden="true">▦</span><span>Ugeplan</span></a>
+          <a href="#materialer" data-route="materialer"><span aria-hidden="true">▤</span><span>Materialer</span></a>
+          <a href="#afleveringer" data-route="afleveringer"><span aria-hidden="true">✓</span><span>Afleveringer</span></a>
+          <a href="#vaerktoejer" data-route="vaerktoejer"><span aria-hidden="true">⌘</span><span>Værktøjer</span></a>
+          <a href="#ressourcer" data-route="ressourcer"><span aria-hidden="true">◇</span><span>Ressourcer</span></a>
+          <a href="#kursusinfo" data-route="kursusinfo"><span aria-hidden="true">i</span><span>Kursusinfo</span></a>
+          <a href="#repo" data-route="repo"><span aria-hidden="true">⌁</span><span>Repo-browser</span></a>
+        </nav>
+      </div>
+
+      <div class="sidebar-bottom">
+        <div class="source-status" id="source-status" aria-live="polite">
+          <span class="status-dot" aria-hidden="true"></span>
+          <span>Indlæser fra GitHub…</span>
+        </div>
+        <a class="repo-link" href="https://github.com/diku-compSys/compSys-e2026" target="_blank" rel="noreferrer">
+          <span>Åbn originalt repo</span><span aria-hidden="true">↗</span>
+        </a>
+        <button class="theme-button" id="theme-button" type="button">
+          <span aria-hidden="true">◐</span><span>Skift farvetema</span>
+        </button>
+      </div>
+    </aside>
+
+    <button class="sidebar-scrim" id="sidebar-scrim" type="button" aria-label="Luk navigation"></button>
+
+    <main class="main-content" id="main-content" tabindex="-1">
+      <div class="loading-screen" aria-live="polite">
+        <div class="loading-mark" aria-hidden="true">CS</div>
+        <p>Bygger kursusoverblik…</p>
+      </div>
+    </main>
+  </div>
+
+  <div class="toast-region" id="toast-region" aria-live="polite" aria-atomic="true"></div>
+</body>
+</html>
