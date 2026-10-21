@@ -41,6 +41,8 @@ length MAXLINE. This might be incredibly wasteful if we have to send and read
 'First'. For this reason we don't do this in the real world, but instead send 
 headers that describe how long the message is going to be.
 
+We saw in the lecture one way of solving this by setting the last byte to 
+always be null in echoclientreduced. Now lets try an alternate solution.
 Rework the echoclient and echoserver so that they can send a header of a fixed 
 length, and then a message of the length stated in the header. For instance if 
 sending the message 'First' you might send something of the form '5First'. The 
