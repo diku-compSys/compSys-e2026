@@ -50,15 +50,21 @@ int main(int argc, char **argv)
            "here and hit enter to send: ");
     // Get some text from stdin and put it in a buffer
     while (fgets(buf, MAXLINE, stdin) != NULL) {
+        int n = strlen(buf);
+
+        // Set last byte to null
+        buf[n-1] = '\0';
 
         // Write the buffer to the socket
-        write(clientfd, buf, strlen(buf));
+        write(clientfd, buf, n);
+
+        printf("Writing %d bytes\n", n);
         // Read from the buffer 
         read(clientfd, buf, MAXLINE);
         printf("Recieved reply: ");
         // Send the reply to stdout
         fputs(buf, stdout);
-        printf("Enter another string: ");
+        printf("\nEnter another string: ");
     }
 
     // Make sure to close our socket. In practice we won't ever reach this line
