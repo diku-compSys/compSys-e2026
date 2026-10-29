@@ -35,21 +35,20 @@
 | 49   | 30 Nov | Arc   | Finn     | The simple machine                                                            | COD 4.1 - 4.4 |
 |      | 02 Dec | Arc   | Finn     | Into to Mikroarchitektur: Pipelining and ydeevne                              | COD 4.6 - 4.9 + [note](https://github.com/diku-compSys/compSys-e2025/blob/main/resources/Afviklingsplot/plot.md), afsnit: intro,lange pipelines,superskalare |
 | 50   | 07 Dec | Arc   | Finn     | Avanceret Mikroarchitektur I                                                  | COD 4.11 + [note](https://github.com/diku-compSys/compSys-e2025/blob/main/resources/Afviklingsplot/plot.md), afsnit om out-of-order |
-|      | 09 Dec | Arc   | Finn     | Avanceret Mikroarchitektur II                                                 | [note](https://github.com/diku-compSys/compSys-e2025/blob/main/resources/Afviklingsplot/plot.md), afsnit om out-of-order |
-| 51   | 14 Dec | Arc   | Finn     | Vector processing. Opsamling. Maskinnær optimering.                           | TBD |
-|      | 16 Dec |       |          | Christmas lecture.                                                            |         |
+|      | 09 Dec | Arc   | Finn     | Avanceret Mikroarchitektur II + Vector processing. Opsa2mling. Maskinnær optimering.                                                 | [note](https://github.com/diku-compSys/compSys-e2025/blob/main/resources/Afviklingsplot/plot.md), afsnit om out-of-order |
+| 51   | 14 Dec | Other | Michael  | Christmas lecture.                                                            | None |
+|      | 16 Dec |       |          | Cancelled                                                                     |  |
 |      |        |       |          | Hand-in A4 (Architecture)                                                     |         |
 | 52   |        |       |          | Christmas vacation - No lectures                                              |         |
 | 53   |        |       |          | Christmas vacation - No lectures                                              |         |
-| 1    | 04 Jan | CN    | Michael  | Security Across the Network, DIKU St.UP1                                      | KR 8.1 - 8.7 |
-|      | 06 Jan | CN    | Michael  | layer, data plane                                                             | KR 4.1 - 4.2.4, 4.3 (Optional read - [Design Philosophy of DARPA Internet Protocols](http://www.cs.princeton.edu/courses/archive/spr14/cos461/papers/clark88.pdf)) |
-| 2    | 11 Jan | CN    | Michael  | Network layer, control plane                                                  | KR 5.1 - 5.3, KR 6.1 - 6.4.3, KR 8.5 - 8.6 |
-|      | 13 Jan |       |          |                                                                               |         |
-|      |        | Recap | TAs      | Architecture recap, DIKU, Li.UP1                                              |         |
-|      |        | Recap | TAs      | Operation System recap                      							       |         |
-|      |        | Recap | TAs      | Computer Networks  				                                           |         |
-| 4    | 18 Jan |       | Lectures | FAQ, Exam question session and evaluation 			                           |         |
-|      | 27 Jan |       | Everyone | CompSys Exam                                                                  |         |
+| 1    | 04 Jan | CN    | Michael  | Network layer, data plane                                                     | KR 4.1 - 4.2.4, 4.3 (Optional read - [Design Philosophy of DARPA Internet Protocols](http://www.cs.princeton.edu/courses/archive/spr14/cos461/papers/clark88.pdf)) |
+|      | 06 Jan | CN    | Michael  | Network layer, control plane                                                  | KR 5.1 - 5.3, KR 6.1 - 6.4.3, KR 8.5 - 8.6 |
+| 2    | 11 Jan | CN    | Michael  | Security Across the Network                                                   | KR 8.1 - 8.7  |
+|      | 13 Jan | Recap | TAs      | Architecture recap                                                            |         |
+|      |        | Recap | TAs      | Operation System recap                                                        |         |
+|      |        | Recap | TAs      | Computer Networks recap  			                                           |         |
+| 3    | 22 Jan |       | Lectures | FAQ, Exam question session and evaluation 			                           |         |
+| 4    | 27 Jan |       | Everyone | CompSys Exam                                                                  |         |
 
 
 ## Material
