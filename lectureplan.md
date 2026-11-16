@@ -31,11 +31,11 @@
 |      | 18 Nov | Arc   | Finn     | C to Assembler - A minimal RISC-V setup                                       | review material for lectures 4/9 + 9/9, slides will be available after lecture |
 |      |        |       |          | Hand-in A3 (Network)                                                          |          |
 | 48   | 23 Nov | Arc   | Finn     | RISC-V machine language                                                       | as above. Also get some familiarity/overview of ch 1,2 and 13 of [RISCV](https://github.com/riscv/riscv-isa-manual/releases/download/20240411/unpriv-isa-asciidoc.pdf) |
-|      | 25 Nov | Arc   | Finn     | Digital logic                                                                 | COD A.1 - A.3, A.5, A7 - A.9, [NandGame](https://nandgame.com/) |
-| 49   | 30 Nov | Arc   | Finn     | The simple machine                                                            | COD 4.1 - 4.4 |
-|      | 02 Dec | Arc   | Finn     | Into to Mikroarchitektur: Pipelining and ydeevne                              | COD 4.6 - 4.9 + [note](https://github.com/diku-compSys/compSys-e2025/blob/main/resources/Afviklingsplot/plot.md), afsnit: intro,lange pipelines,superskalare |
+|      | 25 Nov | Arc   | Finn     | The simple machine                                                            | COD 4.1 - 4.4 |
+| 49   | 30 Nov | Arc   | Finn     | Digital logic                                                                 | COD A.1 - A.3, A.5, A7 - A.9, [NandGame](https://nandgame.com/) |
+|      | 02 Dec | Arc   | Finn     | Intro til Mikroarchitektur: Pipelining and ydeevne                            | COD 4.6 - 4.9 + [note](https://github.com/diku-compSys/compSys-e2025/blob/main/resources/Afviklingsplot/plot.md), afsnit: intro,lange pipelines,superskalare |
 | 50   | 07 Dec | Arc   | Finn     | Avanceret Mikroarchitektur I                                                  | COD 4.11 + [note](https://github.com/diku-compSys/compSys-e2025/blob/main/resources/Afviklingsplot/plot.md), afsnit om out-of-order |
-|      | 09 Dec | Arc   | Finn     | Avanceret Mikroarchitektur II + Vector processing. Opsa2mling. Maskinnær optimering.                                                 | [note](https://github.com/diku-compSys/compSys-e2025/blob/main/resources/Afviklingsplot/plot.md), afsnit om out-of-order |
+|      | 09 Dec | Arc   | Finn     | Avanceret Mikroarchitektur II + Vector processing. Opsa2mling.                | [note](https://github.com/diku-compSys/compSys-e2025/blob/main/resources/Afviklingsplot/plot.md), afsnit om out-of-order |
 | 51   | 14 Dec | Other | Michael  | Christmas lecture.                                                            | None |
 |      | 16 Dec |       |          | Cancelled                                                                     |  |
 |      |        |       |          | Hand-in A4 (Architecture)                                                     |         |
