@@ -116,7 +116,7 @@ Every Monday and Wednesday lectures will be held. These will go through the cour
   * Wednesday: HCØ, Aud 04
 
 #### Block 2
-  * Monday: HCØ, Aud 01
+  * Monday: August Krogh, Aud 01
   * Wednesday: HCØ, Aud 04
 
 ### Execises

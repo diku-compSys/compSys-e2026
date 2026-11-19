@@ -1,0 +1,62 @@
+This file will describe where you can go and to which TA for your A0 
+discussions.
+
+Exercise and cafes will continue as normal at the same time as these.
+
+
+TA      | Discussion Time       | Room              | Group Members
+------------------------------------------------------------------------------
+Tobias  | 13.20, 16th Nov       | NBB 1.01.B.080    | bdn167, cqx237, rhz500                                
+        | 13.40, 16th Nov       | NBB 1.01.B.080    | bzg517, grw341, scz271
+        | 14.00, 16th Nov       | NBB 1.01.B.080    | bzt192, chd953, xms437
+        | 14.20, 16th Nov       | NBB 1.01.B.080    | clf208, kpm215, txc928
+        | 10.20, 18th Nov       | NBB 1.1.E.015     | cls199, nxp109, tsx936
+        | 10.40, 18th Nov       | NBB 1.1.E.015     | crt805, spf716, wpl433
+        | 11.00, 18th Nov       | NBB 1.1.E.015     | czd850, sgf635
+        | 11.20, 18th Nov       | NBB 1.1.E.015     | djx622, gln204, kjt322
+        | 15.20, 18th Nov       | NBB 1.01.B.080    | frj103, jrx448, ngz387
+        | 15.40, 18th Nov       | NBB 1.01.B.080    | hmz554
+        | 16.00, 18th Nov       | NBB 1.01.B.080    | hqv285, wpf719
+        | 16.20, 18th Nov       | NBB 1.01.B.080    | mlx364, vnc969, vzk703
+
+------------------------------------------------------------------------------
+Lasse   | 10.15, 18th Nov       | NBB 1.01.B.080    | bdh732, nhv170, qlm600
+        | 10.30, 18th Nov       | NBB 1.01.B.080    | bns709, xrv455, zmp766
+        | 10.45, 18th Nov       | NBB 1.01.B.080    | cdf313, psg525, rkw241
+        | 11.00, 18th Nov       | NBB 1.01.B.080    | ctz947, gvn107, lqx709
+        | 11.15, 18th Nov       | NBB 1.01.B.080    | fct223, khv617, wzm543
+        | 11.30, 18th Nov       | NBB 1.01.B.080    | fnm300, xbp598, zbs308
+        | 15.15, 18th Nov       | NBB 1.01.F.70     | fwl146, mst470
+        | 15.30, 18th Nov       | NBB 1.01.F.70     | gcs767, kfw520 
+        | 15.45, 18th Nov       | NBB 1.01.F.70     | jbd266, psw960, zln347
+        | 16.00, 18th Nov       | NBB 1.01.F.70     | jzr431, wgj938, wkr857
+        | 16.15, 18th Nov       | NBB 1.01.F.70     | lrn949, sgf923
+        | 16.30, 18th Nov       | NBB 1.01.F.70     | wvm260, zfh939
+
+------------------------------------------------------------------------------
+Sofus   | 13.15, 16th Nov       | NBB 1.3.B.015     | clp606, mfs442, vsf461
+        | 13.30, 16th Nov       | NBB 1.3.B.015     | dmg749, rbv382, zkr901
+        | 13.45, 16th Nov       | NBB 1.3.B.015     | dnj673, drh452, pfb924
+        | 14.00, 16th Nov       | NBB 1.3.B.015     | gpv822, kzt879, nxt337
+        | 14.15, 16th Nov       | NBB 1.3.B.015     | hdn188, hrk999, tzm978
+        | 14.30, 16th Nov       | NBB 1.3.B.015     | hzw647, rcp453, rwx713
+        | 15.15, 18th Nov       | NBB 1.1.E.015     | lrx172
+        | 15.30, 18th Nov       | NBB 1.1.E.015     | mnc269, svw774, zsl448
+        | 15.45, 18th Nov       | NBB 1.1.E.015     | nlb500, vpl121
+        | 16.00, 18th Nov       | NBB 1.1.E.015     | qcx267, tjb859
+        | 16.15, 18th Nov       | NBB 1.1.E.015     | rhk510, zlr279, zvl347   
+        | 16.30, 18th Nov       | NBB 1.1.E.015     | tnj353, xqf608
+
+------------------------------------------------------------------------------
+Markus  | 13.15, 16th Nov       | NBB 2.3.I.164     | bcx379, bxk758, fpn557
+        | 13.30, 16th Nov       | NBB 2.3.I.164     | bcx493, xlr111, xwb999
+        | 13.45, 16th Nov       | NBB 2.3.I.164     | bhp834, crf597, rmw693
+        | 14.00, 16th Nov       | NBB 2.3.I.164     | cvf356, ftz874, pdj785
+        | 14.15, 16th Nov       | NBB 2.3.I.164     | dbl451, lnp644, pbk422
+        | 14.30, 16th Nov       | NBB 2.3.I.164     | lpz115, nwt454
+        | 10.15, 18th Nov       | NBB 1.01.B.080    | nps916, rwn458
+        | 10.30, 18th Nov       | NBB 1.01.B.080    | rvw283 
+        | 10.45, 18th Nov       | NBB 1.01.B.080    | trc641 
+        | 11.00, 18th Nov       | NBB 1.01.B.080    | wcj897
+        | 11.15, 18th Nov       | NBB 1.01.B.080    | xlc559 
+        | 11.30, 18th Nov       | NBB 1.01.B.080    | zpw148 
