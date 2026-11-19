@@ -37,7 +37,7 @@
 | 50   | 07 Dec | Arc   | Finn     | Avanceret Mikroarchitektur I                                                  | COD 4.11 + [note](https://github.com/diku-compSys/compSys-e2025/blob/main/resources/Afviklingsplot/plot.md), afsnit om out-of-order |
 |      | 09 Dec | Arc   | Finn     | Avanceret Mikroarchitektur II + Vector processing. Opsa2mling. Maskinnær optimering.                                                 | [note](https://github.com/diku-compSys/compSys-e2025/blob/main/resources/Afviklingsplot/plot.md), afsnit om out-of-order |
 | 51   | 14 Dec | Other | Michael  | Christmas lecture.                                                            | None |
-|      | 16 Dec |       |          | Cancelled                                                                     |  |
+|      | 16 Dec |       |          | Lecture cancelled                                                             |  |
 |      |        |       |          | Hand-in A4 (Architecture)                                                     |         |
 | 52   |        |       |          | Christmas vacation - No lectures                                              |         |
 | 53   |        |       |          | Christmas vacation - No lectures                                              |         |
