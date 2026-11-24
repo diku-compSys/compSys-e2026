@@ -1,6 +1,6 @@
 # Øvelsesopgaver til 25/11 - En simpel maskine
 
-
+0. Opgaver i assembler og maskinsprog fra tidligere øvelser.
 
 1. Hvilke forskellige værdier indtager "opcode" feltet i RISCV RV32I base instruktionerne?
 
@@ -14,7 +14,7 @@
    skal funktionens resultat være 0 (eller FALSE). 
    Funktionen må udelukkende anvende logisk or (AND) og negation.
 
-TBD.
+
 
 
 
